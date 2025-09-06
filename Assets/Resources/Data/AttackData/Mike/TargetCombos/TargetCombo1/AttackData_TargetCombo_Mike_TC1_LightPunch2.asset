@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_TargetCombo_Mike_TC1_LightPunch2
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: 1de4a70c97615c048b275290b93b395b, type: 2}
+  targetComboData:
+  - {fileID: 11400000, guid: b51a1433223568e4181b99e6f1de1ad7, type: 2}
+  specialsCancelListData: {fileID: 0}
+  superCancelListData: {fileID: 0}
+  motionInputsAttachedToAttackData: []
+  fighterAttackButton: 0
+  unrestrictedChainCancelTC: 0
+  unrestrictedComboTC: 1

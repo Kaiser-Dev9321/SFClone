@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_HeavySkywardKickMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.32
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 3390f8a409a23fd4e8c676d97acf67d7, type: 2}
+    - {fileID: 11400000, guid: de00fa9f910fa7e46b8ee3806b9607e5, type: 2}
+    - {fileID: 11400000, guid: 65c9998d0bf31784ea53c2bc2ec37060, type: 2}
+    attackData: {fileID: 11400000, guid: c34af2d86d838bd489103b9b9d34d2e7, type: 2}
+    voicelineData: {fileID: 0}
+    commandType: 1
+    buttonToPress: 3
+    motionCommandID: CMD_HeavySkywardKick
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: HEAVY SKYWARD KICK !!

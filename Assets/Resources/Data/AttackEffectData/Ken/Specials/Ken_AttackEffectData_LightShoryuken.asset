@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b10511af4c3e83499751e2bcadc0668, type: 3}
+  m_Name: Ken_AttackEffectData_LightShoryuken
+  m_EditorClassIdentifier: 
+  attackEffectType: 1
+  effect_hitDamage: 120
+  effect_chipDamage: 12
+  effect_Stun: 110
+  effect_Hitstun: {fileID: 11400000, guid: 1d0ec58033d23454cb10ad898e62aafb, type: 2}
+  damageScalingPoints: 1
+  canAirJuggle: 1
+  juggle_Start: 4
+  juggle_Increase: 8
+  juggle_Potential: 2
+  automaticallyRecoverFromAttack: 0
+  effect_meterGainOnWhiff: 3
+  effect_meterGainOnBlock: 5
+  effect_meterGainOnHit: 10

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_Ken_FierceShoryukenMotionInput2_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.35
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 237ca794478b6804eb105f98533188fd, type: 2}
+    - {fileID: 11400000, guid: 04a233da5e3f1e147a60a273d91201a5, type: 2}
+    - {fileID: 11400000, guid: 16fc5608232a5ef42aee26f475ed305f, type: 2}
+    - {fileID: 11400000, guid: a1921e17529cac142b8d53dfb4266eb3, type: 2}
+    attackData: {fileID: 11400000, guid: c5d0686dfa29a05498fc244f23639b89, type: 2}
+    voicelineData: {fileID: 11400000, guid: 3c997942c524d9a4dbdc27280aeebfeb, type: 2}
+    commandType: 1
+    buttonToPress: 4
+    motionCommandID: CMD_FierceShoryuken
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: FIERCE SHORYUKEN 2  !!

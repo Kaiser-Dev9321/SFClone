@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_Ryu_FierceShoryuken
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: a4e53fc86ca56e54d9a75a335e58812e, type: 2}
+  targetComboData: []
+  specialsCancelListData: {fileID: 0}
+  superCancelListData: {fileID: 0}
+  motionInputsAttachedToAttackData:
+  - {fileID: 11400000, guid: 0c73877c4250a46428fb9ee65b7980f9, type: 2}
+  - {fileID: 11400000, guid: e57425d3b9d63b04cbdb5a7f4922e69d, type: 2}
+  - {fileID: 11400000, guid: 1d0f6c967a4c79440b5add4bb7dd5df6, type: 2}
+  - {fileID: 11400000, guid: 98d99b8dfb6fcba4888d0bded47b9ab8, type: 2}
+  fighterAttackButton: 4
+  unrestrictedChainCancelTC: 0
+  unrestrictedComboTC: 0

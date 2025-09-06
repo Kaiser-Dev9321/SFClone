@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2257656ae9f69984c8a9cf4f5c5857b0, type: 3}
+  m_Name: SpecialsCancelListData_Lee1
+  m_EditorClassIdentifier: 
+  cancellableAttacks:
+  - {fileID: 11400000, guid: ef91459cc4667ff4c8fc71fa5971f736, type: 2}
+  - {fileID: 11400000, guid: c7b9bc9ea3ef4c741bac77e15232bbaa, type: 2}
+  - {fileID: 11400000, guid: 26c58bfb18b5de5408de67563f43f782, type: 2}
+  - {fileID: 11400000, guid: ded13c52d57d4374ea8f5d1faf7ca38f, type: 2}
+  - {fileID: 11400000, guid: f055f247a6f316c40879c8e1715a617b, type: 2}
+  - {fileID: 11400000, guid: 08d215835be1b984b85cb9e346d55133, type: 2}
+  - {fileID: 11400000, guid: bc97f4718fcf85148b0ba3404160bd83, type: 2}
+  - {fileID: 11400000, guid: d37997e30716d1341b855b8a3f8313c8, type: 2}
+  - {fileID: 11400000, guid: 1f81a2349f0391f4195f984f4bd412f5, type: 2}

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74954d91827eb448d0761a98ad5342, type: 3}
+  m_Name: HitstunData_AirFallHitstun_ShinkuHadoken2
+  m_EditorClassIdentifier: 
+  animationName: AirFallHitstun
+  hitstunAnimationCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 8
+      inSlope: -0.3198543
+      outSlope: -0.3198543
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.13260025
+    - serializedVersion: 3
+      time: 1
+      value: 2
+      inSlope: -14.311287
+      outSlope: -14.311287
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.050776243
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  hitstunAnimationCurveY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.2
+      inSlope: -3.286735
+      outSlope: -3.286735
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.24207747
+    - serializedVersion: 3
+      time: 0.2
+      value: 5
+      inSlope: 0.17956665
+      outSlope: 0.17956665
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.20763263
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1.2
+      value: -8
+      inSlope: -1.8248068
+      outSlope: -1.8248068
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.1395247
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  disableGroundCheck: 1

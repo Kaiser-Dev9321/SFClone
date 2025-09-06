@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_HeavyHeroicUpperMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.33
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 3783ed7df80380a48892b94fb522a6fd, type: 2}
+    - {fileID: 11400000, guid: 1c9fa0fa3052ce64497481213c9f0fcc, type: 2}
+    - {fileID: 11400000, guid: 16d4cbff140683848af8c4ebef4fcd66, type: 2}
+    attackData: {fileID: 11400000, guid: 0e360dac0c634e14780971fbf36b22ca, type: 2}
+    voicelineData: {fileID: 11400000, guid: c023c69a5ad4b3b4fade0296332bf94a, type: 2}
+    commandType: 1
+    buttonToPress: 2
+    motionCommandID: CMD_HeavyHeroicUpper
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: HEAVY HEROIC UPPER !!

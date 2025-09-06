@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74954d91827eb448d0761a98ad5342, type: 3}
+  m_Name: HitstunData_StandingFierce5
+  m_EditorClassIdentifier: 
+  animationName: StandingFierceHitstun3
+  hitstunAnimationCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 11
+      inSlope: -54.595028
+      outSlope: -54.595028
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.08582746
+    - serializedVersion: 3
+      time: 0.2
+      value: 8
+      inSlope: 26.753384
+      outSlope: 26.753384
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.3397888
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5
+      value: -3
+      inSlope: -76.459335
+      outSlope: -76.459335
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10211271
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  hitstunAnimationCurveY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -17.629324
+      outSlope: -17.629324
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.11223592
+    - serializedVersion: 3
+      time: 0.8
+      value: -14
+      inSlope: -26.782066
+      outSlope: -26.782066
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0.2473592
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  disableGroundCheck: 0

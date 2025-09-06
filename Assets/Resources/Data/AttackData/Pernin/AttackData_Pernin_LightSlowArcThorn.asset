@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_Pernin_LightSlowArcThorn
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: 482b7e5783b189248b6ffa5a676e5a5b, type: 2}
+  normalsCancelListData: {fileID: 0}
+  specialsCancelListData: {fileID: 0}
+  superCancelListData: {fileID: 0}
+  motionInputsAttachedToAttackData:
+  - {fileID: 11400000, guid: 573e45c4a16e9f241a38a6c0c2725747, type: 2}
+  - {fileID: 11400000, guid: 9fc3ba9f6b48fe14f974e33f074a2387, type: 2}
+  - {fileID: 11400000, guid: 97041dabcfc8b1f4389e0066502d9d4c, type: 2}
+  - {fileID: 11400000, guid: 523b79031dbb0774a93219722ffa57f0, type: 2}
+  fighterAttackButton: 0
+  TC_combo_check: 0
+  TC_id: 

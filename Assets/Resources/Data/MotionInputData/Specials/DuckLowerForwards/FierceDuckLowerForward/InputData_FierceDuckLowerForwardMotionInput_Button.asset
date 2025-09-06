@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_FierceDuckLowerForwardMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.44
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 83f4fc1166413e846a1617a32d9a39d7, type: 2}
+    - {fileID: 11400000, guid: 4b279822bae64c440ac65b90489a2b16, type: 2}
+    - {fileID: 11400000, guid: 2f9848069ccdd6247a4e3a1e5b0224a5, type: 2}
+    attackData: {fileID: 11400000, guid: c2e5eda8545115745bb6a6acfa051b43, type: 2}
+    voicelineData: {fileID: 0}
+    commandType: 1
+    buttonToPress: 5
+    motionCommandID: CMD_FierceDuckLowerForward
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: FIERCE DUCK LOWER FORWARD !!

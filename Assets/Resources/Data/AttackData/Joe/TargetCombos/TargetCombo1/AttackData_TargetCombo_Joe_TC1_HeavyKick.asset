@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_TargetCombo_Joe_TC1_HeavyKick
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: 5682735ccf929e84daea1d1efed5a9ee, type: 2}
+  normalsCancelListData: {fileID: 0}
+  specialsCancelListData: {fileID: 11400000, guid: f094c40e92a690e45a3a6d68e52e024a, type: 2}
+  superCancelListData: {fileID: 11400000, guid: 4bf9ea817705a3843889745242957af7, type: 2}
+  motionInputsAttachedToAttackData: []
+  fighterAttackButton: 3
+  TC_combo_check: 1
+  TC_id: TargetCombo_Joe_TC1
+  unrestrictedTC: 1

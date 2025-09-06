@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7ba329e9f8b7f64c95ee30d45726ea9, type: 3}
+  m_Name: Action_AI_Pernin_Attack_StandingLightPunch
+  m_EditorClassIdentifier: 
+  Name: StandingLightPunch
+  considerations:
+  - {fileID: 11400000, guid: 9467805199c0de4458d99dcb23698acd, type: 2}
+  aiAttackStateNormal: 0
+  stateMachine_Entity: {fileID: 0}

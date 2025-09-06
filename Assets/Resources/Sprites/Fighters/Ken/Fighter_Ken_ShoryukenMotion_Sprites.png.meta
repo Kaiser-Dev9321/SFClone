@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 741a5481bc8d751409d6ab55658869ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3460212332193834540
+    second: Fighter_Ken_ShoryukenMotion_Sprites_0
+  - first:
+      213: 3559073584617752955
+    second: Fighter_Ken_ShoryukenMotion_Sprites_1
+  - first:
+      213: -5331421317982248750
+    second: Fighter_Ken_ShoryukenMotion_Sprites_2
+  - first:
+      213: 8187667469820770762
+    second: Fighter_Ken_ShoryukenMotion_Sprites_3
+  - first:
+      213: -7722014101889588155
+    second: Fighter_Ken_ShoryukenMotion_Sprites_4
+  - first:
+      213: 527674058753798647
+    second: Fighter_Ken_ShoryukenMotion_Sprites_5
+  - first:
+      213: 7926074101060653053
+    second: Fighter_Ken_ShoryukenMotion_Sprites_6
+  - first:
+      213: 1599258707433946798
+    second: Fighter_Ken_ShoryukenMotion_Sprites_7
+  - first:
+      213: 8478572000079212866
+    second: Fighter_Ken_ShoryukenMotion_Sprites_8
+  - first:
+      213: 3301757311349667724
+    second: Fighter_Ken_ShoryukenMotion_Sprites_9
+  - first:
+      213: 4551039072832617320
+    second: Fighter_Ken_ShoryukenMotion_Sprites_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33.333332
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4245283, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26e6db78c4250030800000000000000
+      internalID: 3460212332193834540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790e94819e546130800000000000000
+      internalID: 3559073584617752955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5377359, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d029b1fe8cf206b0800000000000000
+      internalID: -5331421317982248750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac930b50f2070a170800000000000000
+      internalID: 8187667469820770762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544605a5615e5d490800000000000000
+      internalID: -7722014101889588155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.03888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1753db2cca25700800000000000000
+      internalID: 527674058753798647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.10555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc42996621ffd60800000000000000
+      internalID: 7926074101060653053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.10555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefc883255b13610800000000000000
+      internalID: 1599258707433946798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4339623, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417b4b0050f9a570800000000000000
+      internalID: 8478572000079212866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4339623, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bb8df7c232dd20800000000000000
+      internalID: 3301757311349667724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_ShoryukenMotion_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 106
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4811321, y: 0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7c1f9ce9882f30800000000000000
+      internalID: 4551039072832617320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fighter_Ken_ShoryukenMotion_Sprites_7: 1599258707433946798
+      Fighter_Ken_ShoryukenMotion_Sprites_9: 3301757311349667724
+      Fighter_Ken_ShoryukenMotion_Sprites_6: 7926074101060653053
+      Fighter_Ken_ShoryukenMotion_Sprites_4: -7722014101889588155
+      Fighter_Ken_ShoryukenMotion_Sprites_5: 527674058753798647
+      Fighter_Ken_ShoryukenMotion_Sprites_10: 4551039072832617320
+      Fighter_Ken_ShoryukenMotion_Sprites_0: 3460212332193834540
+      Fighter_Ken_ShoryukenMotion_Sprites_3: 8187667469820770762
+      Fighter_Ken_ShoryukenMotion_Sprites_1: 3559073584617752955
+      Fighter_Ken_ShoryukenMotion_Sprites_8: 8478572000079212866
+      Fighter_Ken_ShoryukenMotion_Sprites_2: -5331421317982248750
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

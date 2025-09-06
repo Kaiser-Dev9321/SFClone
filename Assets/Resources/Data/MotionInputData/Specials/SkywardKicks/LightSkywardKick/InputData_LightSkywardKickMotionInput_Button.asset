@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_LightSkywardKickMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 83265f56a88b6d64c8d2b432175a6b0c, type: 2}
+    - {fileID: 11400000, guid: 2ff7194d60e5023429f5a887068adccd, type: 2}
+    - {fileID: 11400000, guid: a46b8eae2bf36b44496474492b1ac2c4, type: 2}
+    attackData: {fileID: 11400000, guid: 27cb25adf713f504a94a8e7f7f448c94, type: 2}
+    voicelineData: {fileID: 0}
+    commandType: 1
+    buttonToPress: 1
+    motionCommandID: CMD_LightSkywardKick
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT SKYWARD KICK !!

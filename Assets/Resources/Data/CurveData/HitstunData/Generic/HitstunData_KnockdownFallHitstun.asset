@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74954d91827eb448d0761a98ad5342, type: 3}
+  m_Name: HitstunData_KnockdownFallHitstun
+  m_EditorClassIdentifier: 
+  animationName: AirFallHitstun
+  hitstunAnimationCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 8
+      inSlope: -6.60208
+      outSlope: -6.60208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.296
+    - serializedVersion: 3
+      time: 1.5
+      value: 0
+      inSlope: -0.6611933
+      outSlope: -0.6611933
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.15199998
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  hitstunAnimationCurveY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 4
+      inSlope: 2.747418
+      outSlope: 2.747418
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.188
+    - serializedVersion: 3
+      time: 2
+      value: -7
+      inSlope: -10.142225
+      outSlope: -10.142225
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.22000003
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  disableGroundCheck: 1

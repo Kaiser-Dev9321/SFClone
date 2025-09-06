@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c84d1d9bf1a9140be448b3ba803242, type: 3}
+  m_Name: TCData_Lee_TC1
+  m_EditorClassIdentifier: 
+  tc_ID: 
+  tcBuild:
+  - TC_comboCheck: 1
+    currentTC_attackData: {fileID: 11400000, guid: d28a77c416ccea84c9c08c3c58d4acc0, type: 2}
+  - TC_comboCheck: 2
+    currentTC_attackData: {fileID: 11400000, guid: 1515f6df19d054044a51020656f97148, type: 2}
+  - TC_comboCheck: 3
+    currentTC_attackData: {fileID: 11400000, guid: 0fe0bdc5d6912c243ad9ee8e4cd1b123, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_Ryu_LightShoryukenMotionInput4_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: e5d7c7953877d0b49b92d3101e4d4407, type: 2}
+    - {fileID: 11400000, guid: 3a7979a266c9de9478153ac9314df7fa, type: 2}
+    - {fileID: 11400000, guid: a7189b1252c51374ba2b5e0c0768b70e, type: 2}
+    attackData: {fileID: 11400000, guid: 56e5ca595da7fb14098e9980dbbb19d7, type: 2}
+    voicelineData: {fileID: 11400000, guid: 3c997942c524d9a4dbdc27280aeebfeb, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightShoryuken
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT SHORYUKEN 4 !!

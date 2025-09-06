@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_Ken_LightTatsu
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: 4a7ff377405355b4fb1fb1650155958d, type: 2}
+  targetComboData: []
+  specialsCancelListData: {fileID: 0}
+  superCancelListData: {fileID: 0}
+  motionInputsAttachedToAttackData:
+  - {fileID: 11400000, guid: 17275af1ec817ea45aa0df0a3442f7b4, type: 2}
+  fighterAttackButton: 1
+  unrestrictedChainCancelTC: 0
+  unrestrictedComboTC: 0

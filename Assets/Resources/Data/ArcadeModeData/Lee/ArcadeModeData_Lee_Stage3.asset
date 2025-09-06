@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671140f948ae00f46abb93cba34688be, type: 3}
+  m_Name: ArcadeModeData_Lee_Stage3
+  m_EditorClassIdentifier: 
+  currentOpponent: {fileID: 4206143389685363078, guid: fc1080a2c4c898245b51747f65fc685e, type: 3}
+  stageName: Stage_Cody_HugeBlock
+  hasNextArcadeLadder: 1
+  nextArcadeLadder: {fileID: 11400000, guid: ebdca495aa815924fbfd42c5c465f1e5, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b816a190790db4e8034ab947394a38, type: 3}
+  m_Name: InputData_FierceRibcageSmasherMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.425
+    previousMotionInputData:
+    - {fileID: 11400000, guid: bd9fec54b5936cd499c1be9ded45b859, type: 2}
+    - {fileID: 11400000, guid: 5bb597ed7163f8640a8b2005471b57bf, type: 2}
+    - {fileID: 11400000, guid: db4efa7890421cb4daedba9747bbb83d, type: 2}
+    - {fileID: 11400000, guid: bf6499d75ac2fc347a465700ece53c39, type: 2}
+    - {fileID: 11400000, guid: 2c9d08ca0f508844ebf7e8f6a959f939, type: 2}
+    - {fileID: 11400000, guid: 1a2f4461cf1c8c14dba015458a8336dd, type: 2}
+    attackData: {fileID: 11400000, guid: 3badbd8295ad15140a64d33699b7b128, type: 2}
+    voicelineData: {fileID: 11400000, guid: 00d9e2a945dffac45ac6eb26a26a37a8, type: 2}
+    commandType: 1
+    buttonToPress: 4
+    motionCommandID: CMD_FierceRibcageSmasher
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: FIERCE RIBCAGE SMASHER !!

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1aac9958c4a05b44699455225034ecff
+  - enabled: 1
+    path: Assets/Scenes/_gamemanager.unity
+    guid: 0ef3246d3cf24e64bafbef23d2a49316
+  - enabled: 1
+    path: Assets/Scenes/_gameplaypreload.unity
+    guid: 45f9f5194ff532e478b73e60e7e05e10
+  - enabled: 1
+    path: Assets/Scenes/_arcadegameplaypreload.unity
+    guid: 0b0a9bce104868043a8538f9c239724b
+  - enabled: 1
+    path: Assets/Scenes/ArcadeGameOver.unity
+    guid: 31e90c1b470a6db4b900243fa9ce74f6
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage_PostMatchStage.unity
+    guid: b2f31f99dc7d3254587fe9cd8340c6b4
+  - enabled: 1
+    path: Assets/Scenes/ArcadeLadderScene.unity
+    guid: 1047fed8d8e4d5446a324bf31918552f
+  - enabled: 1
+    path: Assets/Scenes/PVPCharacterSelection.unity
+    guid: aa58bd976d1100f448da27025cd29fd4
+  - enabled: 1
+    path: Assets/Scenes/ArcadeCharacterSelection.unity
+    guid: 0543689d08df7ca44b9f7aacc5ec6707
+  - enabled: 1
+    path: Assets/Scenes/Stages/Stage_SFA3KenStage.unity
+    guid: 553f82e1b17496441a0157183b451ade
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Ryu/Stage_Ryu_Waterfall.unity
+    guid: 97a6276db95e7344f8286aa96a449302
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Ken/Stage_Ken_PathFromTheDojo.unity
+    guid: e886076bd693ed84ea5b66ccf6129817
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Cody/Stage_Cody_HugeBlock.unity
+    guid: c7af61fba9b6050449f01e49b782e81d
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Lee/Stage_Lee_GreatWallOfChina.unity
+    guid: d8fdc7b5c12926c4a9b836570b44e149
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Mike/Stage_Mike_MountRushmore.unity
+    guid: bdd98414ed7ee9a44b16a67fd434990f
+  - enabled: 1
+    path: Assets/Scenes/Stages/CharacterStages/Joe/Stage_Joe_Trainyard.unity
+    guid: 283f5ea000402dd44970830859e8e0f3
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene1.unity
+    guid: 4d31adafd66ad4346a2eb2c6bb71f462
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene2.unity
+    guid: 63a68c454159c6542b8b9b8fcb7896be
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene3.unity
+    guid: fc6423bd60f349147b64a64c36b728e8
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene4.unity
+    guid: f896c236c709d3d4b8c6fe12e90f9dca
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene5.unity
+    guid: 3f992677a68ceec4faece0b8145d5b43
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene6.unity
+    guid: 0ecf79be74745e94381e7171ee26fb5a
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_TrainingScene7.unity
+    guid: b1deb546ca8f48243ad5ba09b9492168
+  - enabled: 1
+    path: Assets/Scenes/TESTScenes/TEST_FighterDebugging.unity
+    guid: 439d260c713f95a46bb0397738e3762e
+  m_configObjects: {}

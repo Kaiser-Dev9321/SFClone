@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b10511af4c3e83499751e2bcadc0668, type: 3}
+  m_Name: AttackEffectData_Projectile_FierceHadoken
+  m_EditorClassIdentifier: 
+  attackEffectType: 0
+  effect_hitDamage: 90
+  effect_chipDamage: 30
+  effect_Stun: 100
+  effect_Hitstun: {fileID: 11400000, guid: 525c5a968f3cdeb418651d84795d16f7, type: 2}
+  damageScalingPoints: 2
+  canJuggle: 1
+  juggle_Start: 5
+  juggle_Increase: 5
+  juggle_Potential: 4
+  automaticallyRecoverFromAttack: 0
+  effect_meterGainOnWhiff: 0
+  effect_meterGainOnBlock: 3
+  effect_meterGainOnHit: 5

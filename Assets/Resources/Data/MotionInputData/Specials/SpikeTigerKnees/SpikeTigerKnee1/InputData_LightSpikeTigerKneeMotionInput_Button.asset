@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_LightSpikeTigerKneeMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 8befed52072147443baf5e6824f01c7d, type: 2}
+    - {fileID: 11400000, guid: 7e8c0e438a63efa4bafcdf64c65b76d6, type: 2}
+    - {fileID: 11400000, guid: 0217fef039d706442b405723896d914c, type: 2}
+    - {fileID: 11400000, guid: 635067f97d3ab814f9f931652b5eb74a, type: 2}
+    attackData: {fileID: 11400000, guid: 3ae6867274661a84587e632fb57f8c5e, type: 2}
+    voicelineData: {fileID: 0}
+    commandType: 1
+    buttonToPress: 1
+    motionCommandID: CMD_LightSlowArcThorn
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT SLOW ARC THORN 1 !!

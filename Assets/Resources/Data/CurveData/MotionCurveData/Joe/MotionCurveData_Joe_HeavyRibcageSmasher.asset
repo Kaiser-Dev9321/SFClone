@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8df30cc7cd92748b31475513001dbf, type: 3}
+  m_Name: MotionCurveData_Joe_HeavyRibcageSmasher
+  m_EditorClassIdentifier: 
+  animationCurve_velocityX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 56.25
+      outSlope: 56.25
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.08
+      value: 4.5
+      inSlope: -0.74521214
+      outSlope: -0.74521214
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.24109742
+    - serializedVersion: 3
+      time: 0.83
+      value: 0
+      inSlope: -2.6559258
+      outSlope: Infinity
+      tangentMode: 97
+      weightedMode: 0
+      inWeight: 0.2449048
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.91
+      value: -13
+      inSlope: 18.2489
+      outSlope: 18.2489
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.3016437
+    - serializedVersion: 3
+      time: 1.4
+      value: 0
+      inSlope: 39.44104
+      outSlope: 39.44104
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.31726336
+      outWeight: 0.34822872
+    - serializedVersion: 3
+      time: 1.6
+      value: 10
+      inSlope: -1.0227523
+      outSlope: -1.0227523
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.2752725
+    - serializedVersion: 3
+      time: 2.3
+      value: 4
+      inSlope: -16.706932
+      outSlope: -16.706932
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.17746246
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_velocityY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1.55
+      value: 0
+      inSlope: Infinity
+      outSlope: 4.5019145
+      tangentMode: 7
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.51766914
+    - serializedVersion: 3
+      time: 1.59
+      value: 6
+      inSlope: -0.54589623
+      outSlope: -0.54589623
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.7028249
+      outWeight: 0.27889326
+    - serializedVersion: 3
+      time: 2.24
+      value: -8
+      inSlope: -43.625362
+      outSlope: 171.05278
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.06910141
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateX:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateY:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

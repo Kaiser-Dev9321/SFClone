@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b10511af4c3e83499751e2bcadc0668, type: 3}
+  m_Name: AttackEffectData_Ryu_LightShoryuken
+  m_EditorClassIdentifier: 
+  attackEffectType: 1
+  effect_hitDamage: 150
+  effect_chipDamage: 5
+  effect_Stun: 130
+  effect_Hitstun: {fileID: 11400000, guid: e4d8cab8d5d4f224190ec58ff69bde1c, type: 2}
+  damageScalingPoints: 1
+  canAirJuggle: 1
+  juggle_Start: 3
+  juggle_Increase: 3
+  juggle_Potential: 3
+  automaticallyRecoverFromAttack: 0
+  effect_meterGainOnWhiff: 2
+  effect_meterGainOnBlock: 4
+  effect_meterGainOnHit: 8

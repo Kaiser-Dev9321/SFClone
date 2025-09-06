@@ -1,0 +1,460 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3768913350113204419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6881249393919926812}
+  - component: {fileID: 8291958492042030773}
+  - component: {fileID: 8088803439185970}
+  - component: {fileID: 9048888289144126168}
+  - component: {fileID: 6526972256016103412}
+  - component: {fileID: 4551264523128351836}
+  - component: {fileID: 1411032727061190935}
+  - component: {fileID: 1216008114696306613}
+  - component: {fileID: 2467700473164652517}
+  - component: {fileID: 8530318977397063862}
+  - component: {fileID: 5667773154333291105}
+  - component: {fileID: 585585567506195446}
+  - component: {fileID: 3609974404134063168}
+  - component: {fileID: 8980569844051620556}
+  - component: {fileID: 5804716371616822100}
+  - component: {fileID: 9182305323021142393}
+  - component: {fileID: 3927654809454614378}
+  - component: {fileID: 6556737701183924162}
+  - component: {fileID: 3024616080571824364}
+  - component: {fileID: 4279406281422566394}
+  - component: {fileID: 2451493295199357234}
+  - component: {fileID: 319847294593135207}
+  - component: {fileID: 3391791555460373146}
+  - component: {fileID: 1721907420801130093}
+  m_Layer: 0
+  m_Name: GroundAttacks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6881249393919926812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8291958492042030773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6157bec8b2e3e4292fc0698f8d3a0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 6cd50c9d4208b904daad04cd6911407f, type: 2}
+  stateMachine_Ken: {fileID: 0}
+--- !u!114 &8088803439185970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a1b976e862896498fd3795b5c566ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 6cd50c9d4208b904daad04cd6911407f, type: 2}
+  stateMachine_Ken: {fileID: 0}
+--- !u!114 &9048888289144126168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea37e24462d5e24408f9828c8fca47da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: cee5850e64adaa147ac513e4b536517a, type: 2}
+  stateMachine_Ken: {fileID: 0}
+--- !u!114 &6526972256016103412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687293145f66ef046934e78e497189d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 83e962a25cf4c6e41bef5edbe4608e1f, type: 2}
+  closePunchDistance: 0
+--- !u!114 &4551264523128351836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b1191fe61cee748b54a951a96941a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: c7ff62230193c8745bc2d6bc1536c68d, type: 2}
+  stateMachine_Ken: {fileID: 0}
+--- !u!114 &1411032727061190935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1003d7f4c430c9b4eb9bf61b3d86b81c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 306879ac460a9df45942c3ee12869f5c, type: 2}
+--- !u!114 &1216008114696306613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 256f3d162bdba0f40940c4c3aee9e3cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: d58f03f2bd9a6954eb7a3662e4c09c14, type: 2}
+--- !u!114 &2467700473164652517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adc10184f39071741bf0c13ee79b0baf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: adf722ea6c8557a4c8ee24502ed1a251, type: 2}
+  closePunchDistance: 0
+--- !u!114 &8530318977397063862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91fb86dfceaf57c4481ca425503aca82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 53c24ac6c6c9f7d4ab1f225d92a3ddff, type: 2}
+--- !u!114 &5667773154333291105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19044625011c5c1479492c67691279c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: fb44c549bbe8672438ed91553d31b9ed, type: 2}
+  motionCommandID: CMD_LightHadoken
+  useVelocityX: 0
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 0}
+--- !u!114 &585585567506195446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13493a38c58a9ac459934b62335e0d76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: ea3d8d89cc46e064e9e23e399b74d764, type: 2}
+  motionCommandID: CMD_LightShoryuken
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 2766a4288ba39524aaccf52fbc1108a0, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &3609974404134063168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a9e08af343ca04faaf7723c0fea205, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: d3828183ab8dd7c45ad282c54e2af474, type: 2}
+  motionCommandID: CMD_LightTatsu
+  useVelocityX: 1
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 1
+  motionCurveDataObject: {fileID: 11400000, guid: 1bceec4e6758cb0468009779e0665826, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &8980569844051620556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bb0ef3f3b4b2f44a99bb8a5dc62f2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 7213a63c422c74449afe999869da1981, type: 2}
+  motionCommandID: CMD_HeavyHadoken
+  useVelocityX: 0
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 0}
+--- !u!114 &5804716371616822100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf57278c1c6085844833b2ae0790bb29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 30ba8358d28e26846bfb145ed71e1159, type: 2}
+  motionCommandID: CMD_HeavyShoryuken
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 02c764a37c90783448d65cff018e4dcd, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &9182305323021142393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d037ac4aa4eb9cb49b62804e28ad73ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 001342790ded59c4b904aed96d1a13f1, type: 2}
+  motionCommandID: CMD_HeavyTatsu
+  useVelocityX: 1
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 1
+  motionCurveDataObject: {fileID: 11400000, guid: 7178759a1f6a069488b52c93511ee9f5, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &3927654809454614378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7613ccaafa8a624ab9fb4d42ce8c809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 56187cde2b9c58f4d992ed3a75eb66dc, type: 2}
+  motionCommandID: CMD_FierceHadoken
+  useVelocityX: 0
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 0}
+--- !u!114 &6556737701183924162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd8bb2636254f3478e702b367c1bda2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: c5d0686dfa29a05498fc244f23639b89, type: 2}
+  motionCommandID: CMD_FierceShoryuken
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 2ec17b4b52cd62145be198a12697d9dd, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &3024616080571824364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a342878acb747d44a89c365ee589035d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: cd4fc75a52d09cc48b117fb4de0a2d0b, type: 2}
+  motionCommandID: CMD_FierceTatsu
+  useVelocityX: 1
+  useVelocityY: 0
+  useTranslateX: 0
+  useTranslateY: 1
+  motionCurveDataObject: {fileID: 11400000, guid: 05a541132785d48489d325f49f48f8ef, type: 2}
+  fighterBasics_Air:
+    airColliderTransform: {fileID: 0}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &4279406281422566394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb84460505961842a7526472d768026, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grabboxOnTrigger: {fileID: 0}
+  hasNeutralGrab: 0
+  forwardGrabState: {fileID: 1721907420801130093}
+  backwardGrabState: {fileID: 0}
+  neutralGrabState: {fileID: 0}
+--- !u!114 &2451493295199357234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a521d5f052e21cc44a19bd636fef5fd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 6797a0c137e257e48adc2f54ea8d0368, type: 2}
+  motionCommandID: CMD_LightShoryureppa
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 6443fe11340a05645b9accb1aa54b44e, type: 2}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &319847294593135207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24ad62aef140a214394c4f9a17151fcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: b770d3426c2e8764fae4d82b5b4de2d2, type: 2}
+  motionCommandID: CMD_HeavyShoryureppa
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 208db32b364c0ef47936f678dbbf812e, type: 2}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &3391791555460373146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30fb63412d203024296a6377cdda9661, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackData: {fileID: 11400000, guid: 032eae5fdabef3941b99dd8da6f64f46, type: 2}
+  motionCommandID: CMD_FierceShoryureppa
+  useVelocityX: 1
+  useVelocityY: 1
+  useTranslateX: 0
+  useTranslateY: 0
+  motionCurveDataObject: {fileID: 11400000, guid: 3a16123a4fb98b244818cdc5b289e787, type: 2}
+  specialMoveLandState: {fileID: 0}
+--- !u!114 &1721907420801130093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768913350113204419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0a16ce3df3ea04faa2950f7bd228a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stateMachine_Ken: {fileID: 0}
+  grabAnimationEmptyTransform: {fileID: 0}
+  air_AttackEffectData: {fileID: 0}

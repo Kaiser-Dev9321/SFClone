@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_Ken_LightShoryukenMotionInput1_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 5ffff22fa7abd5448857a95f95c2da9b, type: 2}
+    - {fileID: 11400000, guid: 5ecb798c9301c8a4a8458a69652e0aeb, type: 2}
+    - {fileID: 11400000, guid: e132124179526fe49b8fd1a0254d713d, type: 2}
+    attackData: {fileID: 11400000, guid: ea3d8d89cc46e064e9e23e399b74d764, type: 2}
+    voicelineData: {fileID: 11400000, guid: 3c997942c524d9a4dbdc27280aeebfeb, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightShoryuken
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT SHORYUKEN 1 !!

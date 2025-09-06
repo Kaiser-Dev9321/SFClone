@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b816a190790db4e8034ab947394a38, type: 3}
+  m_Name: InputData_LightRibcageSmasherMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.32
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 7e2aa216c1168ad418c117b744364876, type: 2}
+    - {fileID: 11400000, guid: fe056462e8c2372489d61c3b4de28488, type: 2}
+    - {fileID: 11400000, guid: ce4f4b5dd6ac998488680cfaf5518ac7, type: 2}
+    - {fileID: 11400000, guid: 12cb7892fee75a0429a743f1b42459b4, type: 2}
+    - {fileID: 11400000, guid: 38a4e9b9cde02dd4ca41aeae5b7d88a8, type: 2}
+    - {fileID: 11400000, guid: 95b6ff94e25d4c34dbeb7566b8d49bda, type: 2}
+    attackData: {fileID: 11400000, guid: 306d17cfd0f7555418dc8471a0255924, type: 2}
+    voicelineData: {fileID: 11400000, guid: 00d9e2a945dffac45ac6eb26a26a37a8, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightRibcageSmasher
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT RIBCAGE SMASHER !!

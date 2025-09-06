@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_Ryu_FierceShoryukenMotionInput4_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.35
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 39dbf7872a7fb15488261341f0a14632, type: 2}
+    - {fileID: 11400000, guid: 96bbfc055cb93024bb786f8037e26ff6, type: 2}
+    - {fileID: 11400000, guid: f53bfe4ecd4e0a4408d33796080b44c0, type: 2}
+    attackData: {fileID: 11400000, guid: 51d4878084c0d0544ba79b1f15101c3d, type: 2}
+    voicelineData: {fileID: 11400000, guid: 3c997942c524d9a4dbdc27280aeebfeb, type: 2}
+    commandType: 1
+    buttonToPress: 4
+    motionCommandID: CMD_FierceShoryuken
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: FIERCE SHORYUKEN 4 !!

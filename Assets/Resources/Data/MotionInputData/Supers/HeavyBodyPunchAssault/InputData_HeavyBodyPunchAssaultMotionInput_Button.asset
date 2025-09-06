@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b816a190790db4e8034ab947394a38, type: 3}
+  m_Name: InputData_HeavyBodyPunchAssaultMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.34
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 32e88f24a234e14449b95b678bee40a0, type: 2}
+    - {fileID: 11400000, guid: 71b71431087da2a429e5a22d3ab10a03, type: 2}
+    - {fileID: 11400000, guid: 43d02110268984a408133e7f235d22c2, type: 2}
+    - {fileID: 11400000, guid: 2d25215348a33c443bf09e1832a81212, type: 2}
+    - {fileID: 11400000, guid: e5f67384e40b76842aa8114763bbab1d, type: 2}
+    - {fileID: 11400000, guid: fe835f6e1aee87c4bab23b4f0b874f5a, type: 2}
+    attackData: {fileID: 11400000, guid: 1c03e1c0289884d45b22b9db297a243b, type: 2}
+    voicelineData: {fileID: 11400000, guid: 02c56f31570ea814192876075400b7e3, type: 2}
+    commandType: 1
+    buttonToPress: 2
+    motionCommandID: CMD_HeavyBodyPunchAssault
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: HEAVY BODY PUNCH ASSAULT !!

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_HeavyPowerKickMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.323
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 98e5f464fcd7f99479d36c7e51e716f4, type: 2}
+    - {fileID: 11400000, guid: b62418562ee840745a3c627ac910a3ad, type: 2}
+    - {fileID: 11400000, guid: 85388a43415451b429a6b8ee7e1a868f, type: 2}
+    attackData: {fileID: 11400000, guid: b54acb5fda5d3d94eadfb6382901454a, type: 2}
+    voicelineData: {fileID: 11400000, guid: 00d9e2a945dffac45ac6eb26a26a37a8, type: 2}
+    commandType: 1
+    buttonToPress: 3
+    motionCommandID: CMD_HeavyPowerKick
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: HEAVY POWER KICK !!

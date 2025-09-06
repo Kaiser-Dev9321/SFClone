@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74954d91827eb448d0761a98ad5342, type: 3}
+  m_Name: HitstunData_AirFallHitstun_Ryu_Tatsu
+  m_EditorClassIdentifier: 
+  animationName: AirFallHitstun
+  hitstunAnimationCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 8
+      inSlope: -4.9923964
+      outSlope: -4.9923964
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.11883802
+    - serializedVersion: 3
+      time: 0.45
+      value: 5
+      inSlope: -8.262326
+      outSlope: -8.262326
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.058861613
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  hitstunAnimationCurveY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: -11.474786
+      outSlope: -11.474786
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.21561018
+    - serializedVersion: 3
+      time: 0.6
+      value: -11
+      inSlope: -29.307926
+      outSlope: -29.307926
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.06640792
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  disableGroundCheck: 1

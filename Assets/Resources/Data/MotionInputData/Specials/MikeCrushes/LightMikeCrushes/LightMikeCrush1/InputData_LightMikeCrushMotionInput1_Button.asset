@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_LightMikeCrushMotionInput1_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: f7d02542a47c4254383e7ef0f31f0579, type: 2}
+    - {fileID: 11400000, guid: 7fd8d38cfa5ca40468f06359db3aa85a, type: 2}
+    - {fileID: 11400000, guid: cb983ad20669cd94d85960b76549c222, type: 2}
+    attackData: {fileID: 11400000, guid: dda03ffbe1fbd3249b30bb3fa385bfbe, type: 2}
+    voicelineData: {fileID: 11400000, guid: 02c56f31570ea814192876075400b7e3, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightMikeCrush
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT MIKE CRUSH 1 !!

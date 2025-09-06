@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 5e244bf604169c24e907504314954cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6522611903724221826
+    second: Fighter_Ken_TatsuMotion_Sprites_0
+  - first:
+      213: -7076453433139368557
+    second: Fighter_Ken_TatsuMotion_Sprites_1
+  - first:
+      213: 3725035073431817532
+    second: Fighter_Ken_TatsuMotion_Sprites_2
+  - first:
+      213: 6680624618850354714
+    second: Fighter_Ken_TatsuMotion_Sprites_3
+  - first:
+      213: -337265235773280435
+    second: Fighter_Ken_TatsuMotion_Sprites_4
+  - first:
+      213: 3912084202366213059
+    second: Fighter_Ken_TatsuMotion_Sprites_5
+  - first:
+      213: -132529134162565197
+    second: Fighter_Ken_TatsuMotion_Sprites_6
+  - first:
+      213: -6457503802047991297
+    second: Fighter_Ken_TatsuMotion_Sprites_7
+  - first:
+      213: 5732179562621646206
+    second: Fighter_Ken_TatsuMotion_Sprites_8
+  - first:
+      213: 3105956701445207238
+    second: Fighter_Ken_TatsuMotion_Sprites_9
+  - first:
+      213: -170229169947513930
+    second: Fighter_Ken_TatsuMotion_Sprites_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33.333332
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5031446, y: 0.008403362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a88c628070b75a0800000000000000
+      internalID: -6522611903724221826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.44654086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d622068136bcd90800000000000000
+      internalID: -7076453433139368557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157232, y: 0.109243706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d46c7c9abf1b330800000000000000
+      internalID: 3725035073431817532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a160e4402b856bc50800000000000000
+      internalID: 6680624618850354714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f25a21e0bc15bf0800000000000000
+      internalID: -337265235773280435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb947ddad38a4630800000000000000
+      internalID: 3912084202366213059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a9d36479292ef0800000000000000
+      internalID: -132529134162565197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f13f51865266a0800000000000000
+      internalID: -6457503802047991297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5157233, y: 0.1092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7531da11facc8f40800000000000000
+      internalID: 5732179562621646206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.44025156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b265f9239a1b20800000000000000
+      internalID: 3105956701445207238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Ken_TatsuMotion_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 159
+        height: 119
+      alignment: 9
+      pivot: {x: 0.44025156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6edac87933adf0800000000000000
+      internalID: -170229169947513930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fighter_Ken_TatsuMotion_Sprites_10: -170229169947513930
+      Fighter_Ken_TatsuMotion_Sprites_8: 5732179562621646206
+      Fighter_Ken_TatsuMotion_Sprites_2: 3725035073431817532
+      Fighter_Ken_TatsuMotion_Sprites_6: -132529134162565197
+      Fighter_Ken_TatsuMotion_Sprites_3: 6680624618850354714
+      Fighter_Ken_TatsuMotion_Sprites_1: -7076453433139368557
+      Fighter_Ken_TatsuMotion_Sprites_4: -337265235773280435
+      Fighter_Ken_TatsuMotion_Sprites_0: -6522611903724221826
+      Fighter_Ken_TatsuMotion_Sprites_5: 3912084202366213059
+      Fighter_Ken_TatsuMotion_Sprites_9: 3105956701445207238
+      Fighter_Ken_TatsuMotion_Sprites_7: -6457503802047991297
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

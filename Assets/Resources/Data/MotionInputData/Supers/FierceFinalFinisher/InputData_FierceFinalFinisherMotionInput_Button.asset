@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b816a190790db4e8034ab947394a38, type: 3}
+  m_Name: InputData_FierceFinalFinisherMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.335
+    previousMotionInputData:
+    - {fileID: 11400000, guid: ef41c172c64749c4e9ba0a084dc11961, type: 2}
+    - {fileID: 11400000, guid: cb17582f2d5c89b408db0dbf0d639a66, type: 2}
+    - {fileID: 11400000, guid: 157ce0ac268fb384ea65d772ba5a9c97, type: 2}
+    - {fileID: 11400000, guid: f59acee635a497e4ea4f2a815b6795ea, type: 2}
+    - {fileID: 11400000, guid: 95ded373367c1e645a21ecc393224422, type: 2}
+    - {fileID: 11400000, guid: e1a5b3931acedb545b71b5d003109e47, type: 2}
+    attackData: {fileID: 11400000, guid: d2f5ab1b05a898742a72e3d0a0bd801f, type: 2}
+    voicelineData: {fileID: 0}
+    commandType: 1
+    buttonToPress: 4
+    motionCommandID: CMD_FierceFinalFinisher
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: FIERCE FINAL FINISHER !!

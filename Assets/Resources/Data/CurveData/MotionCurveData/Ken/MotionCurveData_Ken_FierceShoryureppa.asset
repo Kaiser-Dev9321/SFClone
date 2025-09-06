@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8df30cc7cd92748b31475513001dbf, type: 3}
+  m_Name: MotionCurveData_Ken_FierceShoryureppa
+  m_EditorClassIdentifier: 
+  animationCurve_velocityX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.08
+      value: 0
+      inSlope: Infinity
+      outSlope: 500.0002
+      tangentMode: 7
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.13
+      value: 18
+      inSlope: -0.2733767
+      outSlope: -0.2733767
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.7125506
+    - serializedVersion: 3
+      time: 0.38
+      value: 0
+      inSlope: -13.574246
+      outSlope: -13.574246
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.23076926
+      outWeight: 0.15781249
+    - serializedVersion: 3
+      time: 0.56
+      value: 0
+      inSlope: Infinity
+      outSlope: -0.09338754
+      tangentMode: 7
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.6
+      value: 11.5
+      inSlope: -0.040611025
+      outSlope: -5.301091
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.4525602
+    - serializedVersion: 3
+      time: 1.23
+      value: 0
+      inSlope: -3.172503
+      outSlope: -3.172503
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.43674707
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_velocityY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.09
+      value: 0
+      inSlope: Infinity
+      outSlope: 169.15248
+      tangentMode: 7
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.30597016
+    - serializedVersion: 3
+      time: 0.18
+      value: 10
+      inSlope: -0.2733767
+      outSlope: -0.2733767
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.7125506
+    - serializedVersion: 3
+      time: 0.35
+      value: -7.25
+      inSlope: 0.7737234
+      outSlope: 0.7737234
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 1
+    - serializedVersion: 3
+      time: 0.38
+      value: 0
+      inSlope: 14.312556
+      outSlope: 14.312556
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.15781249
+    - serializedVersion: 3
+      time: 0.56
+      value: 0
+      inSlope: Infinity
+      outSlope: 39.71029
+      tangentMode: 7
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.77487576
+    - serializedVersion: 3
+      time: 0.68
+      value: 18
+      inSlope: -1.0286865
+      outSlope: -1.0286865
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.28110927
+    - serializedVersion: 3
+      time: 1.05
+      value: 0
+      inSlope: -12.676716
+      outSlope: -12.676716
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.1638645
+      outWeight: 0.36236647
+    - serializedVersion: 3
+      time: 1.43
+      value: -9
+      inSlope: -3.172503
+      outSlope: -3.172503
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.43674707
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateX:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateY:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

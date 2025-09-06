@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74954d91827eb448d0761a98ad5342, type: 3}
+  m_Name: HitstunData_AirfallHitstun_Ken_HeavyShoryuken
+  m_EditorClassIdentifier: 
+  animationName: AirFallHitstun
+  hitstunAnimationCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 16.819153
+      outSlope: 16.819153
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.47539902
+    - serializedVersion: 3
+      time: 0.1
+      value: 2
+      inSlope: 1.3085779
+      outSlope: 1.3085779
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.78390956
+      outWeight: 0.15606873
+    - serializedVersion: 3
+      time: 0.65
+      value: 0
+      inSlope: -3.9133866
+      outSlope: -3.9133866
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.24673583
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  hitstunAnimationCurveY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 2
+      inSlope: 102.63535
+      outSlope: 102.63535
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.5984042
+    - serializedVersion: 3
+      time: 0.1
+      value: 10
+      inSlope: 4.228442
+      outSlope: Infinity
+      tangentMode: 97
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33138296
+    - serializedVersion: 3
+      time: 0.45
+      value: 0
+      inSlope: -19.179832
+      outSlope: -19.179832
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.3425507
+    - serializedVersion: 3
+      time: 0.975
+      value: -8
+      inSlope: -5.822409
+      outSlope: -5.822409
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.21568501
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  disableGroundCheck: 1

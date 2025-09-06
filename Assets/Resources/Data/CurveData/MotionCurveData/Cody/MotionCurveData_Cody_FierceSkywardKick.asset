@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8df30cc7cd92748b31475513001dbf, type: 3}
+  m_Name: MotionCurveData_Cody_FierceSkywardKick
+  m_EditorClassIdentifier: 
+  animationCurve_velocityX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 30
+      outSlope: 30
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 3
+      inSlope: -0.57554847
+      outSlope: -0.57554847
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.09160736
+    - serializedVersion: 3
+      time: 0.5
+      value: 0
+      inSlope: -7.5
+      outSlope: -7.5
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_velocityY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 19.961115
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.37731776
+    - serializedVersion: 3
+      time: 0.15
+      value: 3
+      inSlope: 19.125774
+      outSlope: 19.125774
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.5245796
+      outWeight: 0.25269496
+    - serializedVersion: 3
+      time: 0.3
+      value: 18.4
+      inSlope: -7.3484445
+      outSlope: -7.3484445
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333343
+      outWeight: 0.13575347
+    - serializedVersion: 3
+      time: 0.62
+      value: -13
+      inSlope: -38.122143
+      outSlope: -38.122143
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.20569028
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateX:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurve_translateY:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

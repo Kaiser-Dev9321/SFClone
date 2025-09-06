@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_LightEyeSoreMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.335
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 0d40042a138a8c14b8d044bdd6200189, type: 2}
+    - {fileID: 11400000, guid: 2bf77045434e511449259e3a3e8a4025, type: 2}
+    - {fileID: 11400000, guid: 2cb9a653967d9f044bbc3050ca42f3ad, type: 2}
+    attackData: {fileID: 11400000, guid: 9649de1275ab4df4a98d95fedcc8a58f, type: 2}
+    voicelineData: {fileID: 11400000, guid: 2794a9219fbaf484eaa898fc3823b631, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightEyeSore
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT EYE SORE !!

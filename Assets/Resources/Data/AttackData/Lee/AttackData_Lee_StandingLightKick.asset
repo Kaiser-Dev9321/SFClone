@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5da365e18cdcc48a67820269fb84b3, type: 3}
+  m_Name: AttackData_Lee_StandingLightKick
+  m_EditorClassIdentifier: 
+  attackStateData: {fileID: 11400000, guid: fbc265e760bbeef40b53611113245610, type: 2}
+  normalsCancelListData: {fileID: 11400000, guid: 800fb29c1268dfb419eb5e8a76c1e64e, type: 2}
+  specialsCancelListData: {fileID: 11400000, guid: 5ac61812c212d4e4ca9dd383964f8e92, type: 2}
+  superCancelListData: {fileID: 11400000, guid: 78dae30f29635364198690cdda815934, type: 2}
+  motionInputsAttachedToAttackData: []
+  fighterAttackButton: 1
+  TC_combo_check: 0
+  TC_id: 

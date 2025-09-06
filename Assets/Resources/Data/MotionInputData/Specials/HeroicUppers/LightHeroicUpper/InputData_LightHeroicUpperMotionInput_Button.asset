@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1dfb966b965fa418550681e0dde975, type: 3}
+  m_Name: InputData_LightHeroicUpperMotionInput_Button
+  m_EditorClassIdentifier: 
+  entity: {fileID: 0}
+  motionInputValues:
+    timeLeniency: 0.3
+    previousMotionInputData:
+    - {fileID: 11400000, guid: 1c452fa039b5010419722f9f5d2f66ae, type: 2}
+    - {fileID: 11400000, guid: bd6012299832054438bf2635227d51af, type: 2}
+    - {fileID: 11400000, guid: cc257cfac1ec64f4b9e090ddd836e038, type: 2}
+    attackData: {fileID: 11400000, guid: caf4cee34b151f44bbc846f10e925778, type: 2}
+    voicelineData: {fileID: 11400000, guid: c023c69a5ad4b3b4fade0296332bf94a, type: 2}
+    commandType: 1
+    buttonToPress: 0
+    motionCommandID: CMD_LightHeroicUpper
+    mustPerformOnGround: 1
+    mustPerformInAir: 0
+    conditionFulfilled: 0
+  testMessageToPrint: LIGHT HEROIC UPPER !!
